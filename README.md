@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MihMDJ12
-- 👀 I’m interested in java programming
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m MDJ
+- 👀 I’m interested in C/C++ programming
+- 🌱 I’m currently learning C
 
 
 
