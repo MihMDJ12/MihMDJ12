@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MDJ
-- 👀 I’m interested in C/C++ programming
-- 🌱 I’m currently learning C
+- 👀 I’m interested in Unity Game Development
+- 🌱 I’m currently learning C#
 
 
 
